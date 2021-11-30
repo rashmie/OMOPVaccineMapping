@@ -1,11 +1,11 @@
 # OMOPVaccineMapping
- Quality assurance of vaccine mappings of OMOP vocabulary
+ Quality assurance of vaccine mappings of OMOP vocabulary.
  
 ## About
  Python implementation of a method introduced to automatically identify mapping inconsistencies among OMOP vaccine concepts. The paper can be found at:
 
 ## Requirements
- Pandas is required to run this code
+ Pandas is required to run this code.
 
 ## Inputs
  Takes two inputs:
