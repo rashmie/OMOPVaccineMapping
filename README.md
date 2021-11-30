@@ -8,8 +8,10 @@
  Pandas is required to run this code
 
 ## Inputs
- Takes two inputs: 
+ Takes two inputs:
+ 
  (1) An excel file including vaccine concept mappings in OMOP vocabulary
+ 
  (2) Output file path for a csv file with identified vaccine mapping inconsistenties
 
 ## How to run
