@@ -5,7 +5,7 @@
  Python implementation of a method introduced to automatically identify mapping inconsistencies among OMOP vaccine concepts. The paper can be found at:
 
 ## Requirements
- Pandas is required to run this code.
+ Pandas (1.2.4 recommended) is required to run this code.
 
 ## Inputs
  Takes two inputs:
