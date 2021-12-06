@@ -15,4 +15,4 @@
  (2) Output file path for a csv file with identified vaccine mapping inconsistenties
 
 ## How to run
-`python <input1> <input2>`
+`python VaccineMapping.py <input1> <input2>`
